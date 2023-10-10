@@ -2,26 +2,164 @@
 @tailwind components;
 @tailwind utilities;
 
-:root {
-  --foreground-rgb: 0, 0, 0;
-  --background-start-rgb: 214, 219, 220;
-  --background-end-rgb: 255, 255, 255;
+:root{
+  --spinner-background-color: #0058BF;
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --foreground-rgb: 255, 255, 255;
-    --background-start-rgb: 0, 0, 0;
-    --background-end-rgb: 0, 0, 0;
+.App {
+  text-align: center;
+  background: url('images/topright-dots.png') 140% -200% no-repeat,
+  url('images/bottomleft-dots.png') -10% 125% no-repeat,
+  linear-gradient(to left top, #48B9EA, #D4E5F6)
+  ;
+}
+
+.container{
+  display: flex;
+  flex-direction: row;
+  gap: 32px;
+}
+.logo-container img{
+  min-width: 30vh;
+}
+
+.logo-container span{
+  font-size: 36px;
+  font-weight: 800;
+
+  /* Fallback: Set a background color. */
+  background-color: red;
+  
+  /* Create the gradient. */
+  /* background-image: linear-gradient(180deg, #FB7C1F, #FFF82B); */
+
+
+  background: -webkit-linear-gradient(90deg, #FB7C1F, #FFF82B);
+  -webkit-background-clip: text;
+  -webkit-text-stroke: 4px transparent;
+  color: #FFF82B;
+  
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
   }
 }
 
-body {
-  color: rgb(var(--foreground-rgb));
-  background: linear-gradient(
-      to bottom,
-      transparent,
-      rgb(var(--background-end-rgb))
-    )
-    rgb(var(--background-start-rgb));
+.spin-container{
+  padding: 45px 52px;
+  border-radius: 48px;
+
+  background: linear-gradient(303.78deg, #FFCF29 30.62%, #FFF6C6 99.96%);
+  border: 9px #FB7C1F solid;
+  position: relative;
+  width:100%;
+}
+.char {
+  padding: 4px 4px;
+  background: var(--spinner-background-color);
+  color: white;
+  border-radius: 6px;
+  text-align: left;
+  font-size: 36px;
+}
+.char + .char {
+  margin-left: 5px;
+}
+.sep {
+  padding: 0 2px;
+}
+
+.counter-relasi-name-container {
+  background: var(--spinner-background-color);
+  padding: 4px 0;
+  color: white;
+  border-radius: 6px;
+
+  margin: 8px auto 16px;
+  width: 280px;
+  height: 60px;
+
+  font-size: 18px;
+
+  text-align: center;
+}
+
+.counter-relasi-name-container:after {
+  content: '\200b';
+}
+
+.counter-row {
+  display: flex;
+  gap: 32px;
+  align-content: center;
+  justify-content: center;
+}
+
+.counter-row:not(:last-child) {
+  margin-bottom: 32px;
+}
+
+.undi-button{
+  width: 260px;
+  height: 55px;
+  background: linear-gradient(360deg, #EA7100 -3.74%, #FFC13D 157.14%);
+  padding: 8px 18px;
+  border-radius: 11px;
+  border: 1px;
+  color: white;
+  font-size: 24px;
+  
+  font-weight: 700;
+  letter-spacing: 1.20px;
+  word-wrap: break-word;
+  position: absolute;
+  left: calc(50% - 130px);
+  bottom: calc(-28px);
+}
+
+.page-indicator{
+  --component-width: 200px;
+  width: var(--component-width);
+  color: var(--spinner-background-color);
+  font-size: 16px;
+  font-weight: 700;
+  letter-spacing: 1.20px;
+  word-wrap: break-word;
+  position: absolute;
+  left: calc(100% - var(--component-width));
+  bottom: calc(0);
+}
+
+.vert-move {
+  -webkit-animation: mover 2s infinite alternate;
+  animation: mover 2s infinite alternate;
+  transition-timing-function: ease-in-out ease-in-out;
+}
+
+@-webkit-keyframes mover {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-25px); }
+}
+@keyframes mover {
+  0% { transform: translateY(0); }
+  100% { transform: translateY(-25px); }
 }
