@@ -8,7 +8,7 @@ import {useState} from 'react';
 import _ from 'lodash';
 import logo from "../images/logo.png";
 import Data from './Data';
-import JSConfetti from 'js-confetti'
+// import JSConfetti from 'js-confetti'
 // import useSound from 'use-sound'
 // import spinSound from '../sounds/spin.mp3'
 // import spinEndSound from '../sounds/spin_end.mp3'
@@ -41,7 +41,7 @@ const UndiButton = (props) => {
 }
 
 export default function Page({ params }) {
-  const jsConfetti = new JSConfetti()
+  // const jsConfetti = new JSConfetti()
   const datasetIndexes = _.range(10)
   const emptyData = _.range(10).map(e => (
     {
@@ -57,16 +57,16 @@ export default function Page({ params }) {
   // const [playSpinEndSound, { stop:stopSpinEndSound }] = useSound(spinEndSound)
 
   const playConfetti = () => {
-    jsConfetti.addConfetti({
-      confettiRadius: 6,
-      confettiNumber: 500,
-    })
+    // jsConfetti.addConfetti({
+    //   confettiRadius: 6,
+    //   confettiNumber: 500,
+    // })
   }
   const playConfettiMore = () => {
-    jsConfetti.addConfetti({
-      confettiRadius: 6,
-      confettiNumber: 900,
-    })
+    // jsConfetti.addConfetti({
+    //   confettiRadius: 6,
+    //   confettiNumber: 900,
+    // })
   }
 
   const clickUndiButton = () => {
