@@ -50,22 +50,22 @@ export default function Page({ params }) {
   // const [playSpinEndSound, { stop:stopSpinEndSound }] = useSound(spinEndSound)
 
   const playConfetti = () => {
-    if(typeof document !== 'undefined') {
-      const jsConfetti = new JSConfetti()
-      jsConfetti.addConfetti({
-        confettiRadius: 6,
-        confettiNumber: 500,
-      })
-    }
+    // if(typeof document !== 'undefined') {
+    //   const jsConfetti = new JSConfetti()
+    //   jsConfetti.addConfetti({
+    //     confettiRadius: 6,
+    //     confettiNumber: 500,
+    //   })
+    // }
   }
   const playConfettiMore = () => {
-    if(typeof document !== 'undefined') {
-      const jsConfetti = new JSConfetti()
-      jsConfetti.addConfetti({
-        confettiRadius: 6,
-        confettiNumber: 900,
-      })
-    }
+    // if(typeof document !== 'undefined') {
+    //   const jsConfetti = new JSConfetti()
+    //   jsConfetti.addConfetti({
+    //     confettiRadius: 6,
+    //     confettiNumber: 900,
+    //   })
+    // }
   }
 
   const clickUndiButton = () => {
