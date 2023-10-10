@@ -41,67 +41,7 @@ const UndiButton = (props) => {
 }
 
 export default function Page({ params }) {
-  const jsConfetti = new JSConfetti()
-  const datasetIndexes = _.range(10)
-  const emptyData = _.range(10).map(e => (
-    {
-      page: 1,
-      image: '',
-      items: [
-        {
-          title: 'Voucher Alfamart',
-          data: [
-            {
-              "no": 1,
-              "Order": "49 INTISUMBER HASIL SEMPURNA GLOBAL, PT",
-              "Nomor Kupon": 88888888
-            },
-            {
-              "no": 2,
-              "Order": "49 INTISUMBER HASIL SEMPURNA GLOBAL, PT",
-              "Nomor Kupon": 88888888
-            },
-            {
-              "no": 3,
-              "Order": "49 INTISUMBER HASIL SEMPURNA GLOBAL, PT",
-              "Nomor Kupon": 88888888
-            },
-            {
-              "no": 4,
-              "Order": "49 INTISUMBER HASIL SEMPURNA GLOBAL, PT",
-              "Nomor Kupon": 88888888
-            },
-            {
-              "no": 5,
-              "Order": "49 INTISUMBER HASIL SEMPURNA GLOBAL, PT",
-              "Nomor Kupon": 88888888
-            },
-            {
-              "no": 6,
-              "Order": "49 INTISUMBER HASIL SEMPURNA GLOBAL, PT",
-              "Nomor Kupon": 88888888
-            },
-            {
-              "no": 7,
-              "Order": "49 INTISUMBER HASIL SEMPURNA GLOBAL, PT",
-              "Nomor Kupon": 88888888
-            },
-            {
-              "no": 8,
-              "Order": "49 INTISUMBER HASIL SEMPURNA GLOBAL, PT",
-              "Nomor Kupon": 88888888
-            },
-            {
-              "no": 9,
-              "Order": "49 INTISUMBER HASIL SEMPURNA GLOBAL, PT",
-              "Nomor Kupon": 88888888
-            },
-          ]
-        },
-      ]
-    }
-  ))
-  const datasets = Data
+  
   const [datasetIndex, setdatasetIndex] = useState(0)
   const [activeDataset, setactiveDataset] = useState(Data)
   const [showName, setshowName] = useState(false)
@@ -110,16 +50,22 @@ export default function Page({ params }) {
   // const [playSpinEndSound, { stop:stopSpinEndSound }] = useSound(spinEndSound)
 
   const playConfetti = () => {
-    jsConfetti.addConfetti({
-      confettiRadius: 6,
-      confettiNumber: 500,
-    })
+    if(typeof document !== 'undefined') {
+      const jsConfetti = new JSConfetti()
+      jsConfetti.addConfetti({
+        confettiRadius: 6,
+        confettiNumber: 500,
+      })
+    }
   }
   const playConfettiMore = () => {
-    jsConfetti.addConfetti({
-      confettiRadius: 6,
-      confettiNumber: 900,
-    })
+    if(typeof document !== 'undefined') {
+      const jsConfetti = new JSConfetti()
+      jsConfetti.addConfetti({
+        confettiRadius: 6,
+        confettiNumber: 900,
+      })
+    }
   }
 
   const clickUndiButton = () => {
