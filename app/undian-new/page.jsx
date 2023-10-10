@@ -8,7 +8,7 @@ import {useState, useEffect} from 'react';
 import _ from 'lodash';
 import logo from "../images/logo.png";
 import Data from './Data';
-import JSConfetti from 'js-confetti'
+// import JSConfetti from 'js-confetti'
 // import useSound from 'use-sound'
 // import spinSound from '../sounds/spin.mp3'
 // import spinEndSound from '../sounds/spin_end.mp3'
