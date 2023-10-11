@@ -179,7 +179,7 @@ const realData = [
 const Data = realData.map(d => (
   {
     ...d, items: d.items.map(item => ({
-      ...item, data: item.data.map(e => ({
+      ...item, data: _.shuffle(item.data).map(e => ({
         voucher: `${e['Nomor Kupon']}`.padStart(8, "0"),
         name: e['Nama Relasi']
       }))
