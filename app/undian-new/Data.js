@@ -68,7 +68,7 @@ const realData = [
     items: [
       {
         title: 'Voucher Alfamart',
-        data: [{"Nama Relasi":"12 NORA, APT.","Nomor Kupon":54433200,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"12 THAMRIN, APT./THAMRIN","Nomor Kupon":17605689,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"66 VITA FARMA, APT","Nomor Kupon":62974112,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"56 PRISKA FARMA, APT","Nomor Kupon":9436448,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"56 PRATAMA TANDYA, KLINIK","Nomor Kupon":28162229,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"56 NUSAKAMBANGAN, APT.","Nomor Kupon":68891997,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"57 NIA, APT","Nomor Kupon":36521511,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"16 BUDIMAN GADUT AGAM","Nomor Kupon":53605825,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"16 BUDIMAN, SM/ BKT","Nomor Kupon":4431220,"Hadiah":"Voucher Alfamart"}],
+        data: [{"Nama Relasi":"12 NORA, APT.","Nomor Kupon":54433200,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"12 THAMRIN, APT./THAMRIN","Nomor Kupon":17605689,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"66 VITA FARMA, APT","Nomor Kupon":62974112,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"56 PRISKA FARMA, APT","Nomor Kupon":9436448,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"56 PRATAMA TANDYA, KLINIK","Nomor Kupon":28162229,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"56 NUSAKAMBANGAN, APT.","Nomor Kupon":68891997,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"57 NIA, APT","Nomor Kupon":36521511,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"57 DEWI FARMA, APT / MATARAM","Nomor Kupon":3336835,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"55 SANTA CLARA, RS.","Nomor Kupon":44574839,"Hadiah":"Voucher Alfamart"}],
       },
     ]
   },
@@ -77,7 +77,7 @@ const realData = [
     items: [
       {
         title: 'Voucher Alfamart',
-        data: [{"Nama Relasi":"16 KIMIA FARMA TABING, APT","Nomor Kupon":13479739,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"16 BINTANG ILAHI, APT.","Nomor Kupon":74661022,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"17 MAMAMIA SWALAYAN/ SETIABUDHI","Nomor Kupon":73923896,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"17 KLINIK UTAMA NUSA LIMA, APT","Nomor Kupon":8157163,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"17 MAMAMIA SWALAYAN / GOBAH","Nomor Kupon":65254390,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"17 ASEAN, APT.","Nomor Kupon":96010655,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"20 BHAKTI HUSADA, APT","Nomor Kupon":78183622,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"20 K-24 SUDIRMAN, APT","Nomor Kupon":2946413,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"20 ZHA - ZHA, APT","Nomor Kupon":73952391,"Hadiah":"Voucher Alfamart"}],
+        data: [{"Nama Relasi":"57 CATUR WARGA II, APT","Nomor Kupon":4128059,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"44 UNISIA 24, APT","Nomor Kupon":12585316,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"17 MAMAMIA SWALAYAN/ SETIABUDHI","Nomor Kupon":73923896,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"17 KLINIK UTAMA NUSA LIMA, APT","Nomor Kupon":8157163,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"17 MAMAMIA SWALAYAN / GOBAH","Nomor Kupon":65254390,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"17 ASEAN, APT.","Nomor Kupon":96010655,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"20 BHAKTI HUSADA, APT","Nomor Kupon":78183622,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"20 K-24 SUDIRMAN, APT","Nomor Kupon":2946413,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"20 ZHA - ZHA, APT","Nomor Kupon":73952391,"Hadiah":"Voucher Alfamart"}],
       },
     ]
   },
@@ -122,7 +122,7 @@ const realData = [
     items: [
       {
         title: 'Smartwatch',
-        data: [{"Nama Relasi":"32 KLINIK TELKOMEDIKA HEALTH CENTER 19","Nomor Kupon":55994367,"Hadiah":"Smartwatch"},{"Nama Relasi":"12 BONA 1, APT","Nomor Kupon":18199772,"Hadiah":"Smartwatch"},{"Nama Relasi":"57 DEWI FARMA, APT / MATARAM","Nomor Kupon":3336835,"Hadiah":"Smartwatch"}],
+        data: [{"Nama Relasi":"32 KLINIK TELKOMEDIKA HEALTH CENTER 19","Nomor Kupon":55994367,"Hadiah":"Smartwatch"},{"Nama Relasi":"12 BONA 1, APT","Nomor Kupon":18199772,"Hadiah":"Smartwatch"},{"Nama Relasi":"16 BUDIMAN GADUT AGAM","Nomor Kupon":53605825,"Hadiah":"Smartwatch"}],
       },
       {
         title: 'Air Fryer',
@@ -148,7 +148,7 @@ const realData = [
     items: [
       {
         title: 'Xiaomi Redmi 10 6/128',
-        data: [{"Nama Relasi":"19 VITKA FARMA BENGKONG, APT","Nomor Kupon":59580709,"Hadiah":"Xiaomi Redmi 10 6/128"},{"Nama Relasi":"65 HEMAT,APT","Nomor Kupon":46707720,"Hadiah":"Xiaomi Redmi 10 6/128"},{"Nama Relasi":"55 SUPER TOP SWALAYAN, MM","Nomor Kupon":56783396,"Hadiah":"Xiaomi Redmi 10 6/128"},{"Nama Relasi":"66 ANDIKA ,APT","Nomor Kupon":6375585,"Hadiah":"Xiaomi Redmi 10 6/128"},{"Nama Relasi":"47 HASTUTI, CLINIC","Nomor Kupon":84811448,"Hadiah":"Xiaomi Redmi 10 6/128"}],
+        data: [{"Nama Relasi":"19 VITKA FARMA BENGKONG, APT","Nomor Kupon":59580709,"Hadiah":"Xiaomi Redmi 10 6/128"},{"Nama Relasi":"30 LA FINIA FARMA, APT","Nomor Kupon":94804567,"Hadiah":"Xiaomi Redmi 10 6/128"},{"Nama Relasi":"55 SUPER TOP SWALAYAN, MM","Nomor Kupon":56783396,"Hadiah":"Xiaomi Redmi 10 6/128"},{"Nama Relasi":"66 ANDIKA ,APT","Nomor Kupon":6375585,"Hadiah":"Xiaomi Redmi 10 6/128"},{"Nama Relasi":"47 HASTUTI, CLINIC","Nomor Kupon":84811448,"Hadiah":"Xiaomi Redmi 10 6/128"}],
       },
       {
         title: 'Samsung A6',
