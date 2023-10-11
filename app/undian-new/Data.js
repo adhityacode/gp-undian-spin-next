@@ -31,8 +31,8 @@ const realData = [
     page: 1,
     items: [
       {
-        title: 'Voucher Alfamart',
-        data: [{"Nama Relasi":"11 IKHWAN, APT","Nomor Kupon":36312493,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"36 PADJADJARAN MEDICAL CENTER","Nomor Kupon":36633173,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"36 HERMINA, RS / PASTEUR","Nomor Kupon":37243325,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"36 SERUMPUN BAMBU, APT.","Nomor Kupon":99961235,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"36 NURANI, APT/MAJALAYA","Nomor Kupon":21683462,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"24 RIMBUN FARMA, APT.","Nomor Kupon":66307905,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"32 PRIMA, APT./BGR","Nomor Kupon":12162819,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"34 NAGASARI, APT.","Nomor Kupon":85731260,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"34 KASIH, APT","Nomor Kupon":5140331,"Hadiah":"Voucher Alfamart"}]
+        title: 'Voucher Indomaret',
+        data: [{"Nama Relasi":"11 IKHWAN, APT","Nomor Kupon":36312493,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"36 PADJADJARAN MEDICAL CENTER","Nomor Kupon":36633173,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"36 HERMINA, RS / PASTEUR","Nomor Kupon":37243325,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"36 SERUMPUN BAMBU, APT.","Nomor Kupon":99961235,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"36 NURANI, APT/MAJALAYA","Nomor Kupon":21683462,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"24 RIMBUN FARMA, APT.","Nomor Kupon":66307905,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"32 PRIMA, APT./BGR","Nomor Kupon":12162819,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"34 NAGASARI, APT.","Nomor Kupon":85731260,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"34 KASIH, APT","Nomor Kupon":5140331,"Hadiah":"Voucher Indomaret"}]
       },
     ]
   },
@@ -40,8 +40,8 @@ const realData = [
     page: 2,
     items: [
       {
-        title: 'Voucher Alfamart',
-        data: [{"Nama Relasi":"34 K-24 GREEN MARKET, APT","Nomor Kupon":67315152,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"64 PHC BANJARMASIN, KLINIK","Nomor Kupon":60617463,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"64 KHANZA FARMA, APT","Nomor Kupon":67132202,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"64 TASYA MUKARRAMAH, APT.","Nomor Kupon":52680466,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"64 TELKOMEDIKA, APT.","Nomor Kupon":20866801,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"19 PHARMACY CARE,APT","Nomor Kupon":71476673,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"19 AZZAM FARMA BOTANIA, APT","Nomor Kupon":84211157,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"39 ASIA TOSERBA, SM","Nomor Kupon":58021582,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"58 BUANA MEDIKA, APT./P. SAMBIAN","Nomor Kupon":91473050,"Hadiah":"Voucher Alfamart"}],
+        title: 'Voucher Indomaret',
+        data: [{"Nama Relasi":"34 K-24 GREEN MARKET, APT","Nomor Kupon":67315152,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"64 PHC BANJARMASIN, KLINIK","Nomor Kupon":60617463,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"64 KHANZA FARMA, APT","Nomor Kupon":67132202,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"64 TASYA MUKARRAMAH, APT.","Nomor Kupon":52680466,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"64 TELKOMEDIKA, APT.","Nomor Kupon":20866801,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"19 PHARMACY CARE,APT","Nomor Kupon":71476673,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"19 AZZAM FARMA BOTANIA, APT","Nomor Kupon":84211157,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"39 ASIA TOSERBA, SM","Nomor Kupon":58021582,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"58 BUANA MEDIKA, APT./P. SAMBIAN","Nomor Kupon":91473050,"Hadiah":"Voucher Indomaret"}],
       },
     ]
   },
@@ -49,8 +49,8 @@ const realData = [
     page: 3,
     items: [
       {
-        title: 'Voucher Alfamart',
-        data: [{"Nama Relasi":"18 KLINIK MATA KAMBANG, APT","Nomor Kupon":72225375,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"18 HEARING CARE,APT","Nomor Kupon":32053061,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"54 BUANA FARMA, APT.","Nomor Kupon":93345918,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"21 PANGESTU TRITUNGGAL MEDIKA, PT.","Nomor Kupon":99387577,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"21 SAN PRIMA SEJATI, PT.","Nomor Kupon":90874452,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"21 SURYA GLODOK, APT.","Nomor Kupon":51771707,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"21 GOLDEN STAR, APT. (TAN TJENG SIONG)","Nomor Kupon":13308251,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"21 MANDARAMEDIKA UTAMA, PT.","Nomor Kupon":98117991,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"21 ANEKA SEHAT, APT.","Nomor Kupon":50631088,"Hadiah":"Voucher Alfamart"}],
+        title: 'Voucher Indomaret',
+        data: [{"Nama Relasi":"18 KLINIK MATA KAMBANG, APT","Nomor Kupon":72225375,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"18 HEARING CARE,APT","Nomor Kupon":32053061,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"54 BUANA FARMA, APT.","Nomor Kupon":93345918,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"21 PANGESTU TRITUNGGAL MEDIKA, PT.","Nomor Kupon":99387577,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"21 SAN PRIMA SEJATI, PT.","Nomor Kupon":90874452,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"21 SURYA GLODOK, APT.","Nomor Kupon":51771707,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"21 GOLDEN STAR, APT. (TAN TJENG SIONG)","Nomor Kupon":13308251,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"21 MANDARAMEDIKA UTAMA, PT.","Nomor Kupon":98117991,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"21 ANEKA SEHAT, APT.","Nomor Kupon":50631088,"Hadiah":"Voucher Indomaret"}],
       },
     ]
   },
@@ -58,8 +58,8 @@ const realData = [
     page: 4,
     items: [
       {
-        title: 'Voucher Alfamart',
-        data: [{"Nama Relasi":"30 SENO SAGITA FARMA, PT.","Nomor Kupon":62097937,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"26 DEWI FARMA APT","Nomor Kupon":24867063,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"26 MITRA GAMA, APT","Nomor Kupon":86252837,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"30 HARAPAN, TO","Nomor Kupon":64277275,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"30 MEDICASTORE, APT","Nomor Kupon":42210765,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"65 AUWYONG, KLINIK","Nomor Kupon":28916757,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"59 SUMBER SEHAT, APT.","Nomor Kupon":78479545,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"12 HUSADA, APT./SIDIKALANG","Nomor Kupon":8111159,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"12 BETESDA, APT.","Nomor Kupon":75275690,"Hadiah":"Voucher Alfamart"}],
+        title: 'Voucher Indomaret',
+        data: [{"Nama Relasi":"30 SENO SAGITA FARMA, PT.","Nomor Kupon":62097937,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"26 DEWI FARMA APT","Nomor Kupon":24867063,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"26 MITRA GAMA, APT","Nomor Kupon":86252837,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"30 HARAPAN, TO","Nomor Kupon":64277275,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"30 MEDICASTORE, APT","Nomor Kupon":42210765,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"65 AUWYONG, KLINIK","Nomor Kupon":28916757,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"59 SUMBER SEHAT, APT.","Nomor Kupon":78479545,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"12 HUSADA, APT./SIDIKALANG","Nomor Kupon":8111159,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"12 BETESDA, APT.","Nomor Kupon":75275690,"Hadiah":"Voucher Indomaret"}],
       },
     ]
   },
@@ -67,8 +67,8 @@ const realData = [
     page: 5,
     items: [
       {
-        title: 'Voucher Alfamart',
-        data: [{"Nama Relasi":"12 NORA, APT.","Nomor Kupon":54433200,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"12 THAMRIN, APT./THAMRIN","Nomor Kupon":17605689,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"66 VITA FARMA, APT","Nomor Kupon":62974112,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"56 PRISKA FARMA, APT","Nomor Kupon":9436448,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"56 PRATAMA TANDYA, KLINIK","Nomor Kupon":28162229,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"56 NUSAKAMBANGAN, APT.","Nomor Kupon":68891997,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"57 NIA, APT","Nomor Kupon":36521511,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"57 DEWI FARMA, APT / MATARAM","Nomor Kupon":3336835,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"55 SANTA CLARA, RS.","Nomor Kupon":44574839,"Hadiah":"Voucher Alfamart"}],
+        title: 'Voucher Indomaret',
+        data: [{"Nama Relasi":"12 NORA, APT.","Nomor Kupon":54433200,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"12 THAMRIN, APT./THAMRIN","Nomor Kupon":17605689,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"66 VITA FARMA, APT","Nomor Kupon":62974112,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"56 PRISKA FARMA, APT","Nomor Kupon":9436448,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"56 PRATAMA TANDYA, KLINIK","Nomor Kupon":28162229,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"56 NUSAKAMBANGAN, APT.","Nomor Kupon":68891997,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"57 NIA, APT","Nomor Kupon":36521511,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"57 DEWI FARMA, APT / MATARAM","Nomor Kupon":3336835,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"55 SANTA CLARA, RS.","Nomor Kupon":44574839,"Hadiah":"Voucher Indomaret"}],
       },
     ]
   },
@@ -76,8 +76,8 @@ const realData = [
     page: 6,
     items: [
       {
-        title: 'Voucher Alfamart',
-        data: [{"Nama Relasi":"57 CATUR WARGA II, APT","Nomor Kupon":4128059,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"44 UNISIA 24, APT","Nomor Kupon":12585316,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"17 MAMAMIA SWALAYAN/ SETIABUDHI","Nomor Kupon":73923896,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"17 KLINIK UTAMA NUSA LIMA, APT","Nomor Kupon":8157163,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"17 MAMAMIA SWALAYAN / GOBAH","Nomor Kupon":65254390,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"17 ASEAN, APT.","Nomor Kupon":96010655,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"20 BHAKTI HUSADA, APT","Nomor Kupon":78183622,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"20 K-24 SUDIRMAN, APT","Nomor Kupon":2946413,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"20 ZHA - ZHA, APT","Nomor Kupon":73952391,"Hadiah":"Voucher Alfamart"}],
+        title: 'Voucher Indomaret',
+        data: [{"Nama Relasi":"57 CATUR WARGA II, APT","Nomor Kupon":4128059,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"44 UNISIA 24, APT","Nomor Kupon":12585316,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"17 MAMAMIA SWALAYAN/ SETIABUDHI","Nomor Kupon":73923896,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"17 KLINIK UTAMA NUSA LIMA, APT","Nomor Kupon":8157163,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"17 MAMAMIA SWALAYAN / GOBAH","Nomor Kupon":65254390,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"17 ASEAN, APT.","Nomor Kupon":96010655,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"20 BHAKTI HUSADA, APT","Nomor Kupon":78183622,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"20 K-24 SUDIRMAN, APT","Nomor Kupon":2946413,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"20 ZHA - ZHA, APT","Nomor Kupon":73952391,"Hadiah":"Voucher Indomaret"}],
       },
     ]
   },
@@ -85,8 +85,8 @@ const realData = [
     page: 7,
     items: [
       {
-        title: 'Voucher Alfamart',
-        data: [{"Nama Relasi":"60 BORNEO TRITAMA, PT GRUP","Nomor Kupon":83427728,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"60 AMANDA, KLINIK","Nomor Kupon":49514404,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"46 JADI BARU, SUPERMARKET","Nomor Kupon":94880569,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"46 VINDI FARMA, APT.","Nomor Kupon":43942703,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"49 KASIH KARUNIA, KLINIK","Nomor Kupon":24353811,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"49 INTISUMBER HASIL SEMPURNA GLOBAL, PT","Nomor Kupon":66174952,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"49 SAPUTRA JAYA, APT.","Nomor Kupon":18447009,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"49 TRIJAYA ABADI SATELIT . APT","Nomor Kupon":28009519,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"49 INTI FARMA, APT.","Nomor Kupon":67484152,"Hadiah":"Voucher Alfamart"}],
+        title: 'Voucher Indomaret',
+        data: [{"Nama Relasi":"60 BORNEO TRITAMA, PT GRUP","Nomor Kupon":83427728,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"60 AMANDA, KLINIK","Nomor Kupon":49514404,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"46 JADI BARU, SUPERMARKET","Nomor Kupon":94880569,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"46 VINDI FARMA, APT.","Nomor Kupon":43942703,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"49 KASIH KARUNIA, KLINIK","Nomor Kupon":24353811,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"49 INTISUMBER HASIL SEMPURNA GLOBAL, PT","Nomor Kupon":66174952,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"49 SAPUTRA JAYA, APT.","Nomor Kupon":18447009,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"49 TRIJAYA ABADI SATELIT . APT","Nomor Kupon":28009519,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"49 INTI FARMA, APT.","Nomor Kupon":67484152,"Hadiah":"Voucher Indomaret"}],
       },
     ]
   },
@@ -94,8 +94,8 @@ const realData = [
     page: 8,
     items: [
       {
-        title: 'Voucher Alfamart',
-        data: [{"Nama Relasi":"63 GRAHA RESPIRASI SEMESTA, KLINIK","Nomor Kupon":13368146,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"63 PLANET SWALAYAN, MM","Nomor Kupon":15423009,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"63 HERMINA, RS / SMD","Nomor Kupon":37374014,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"40 GAMBIRAN, APT./RBG","Nomor Kupon":55968696,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"40 DOA IBU, APT","Nomor Kupon":27738269,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"40 FARMARIN, APT.","Nomor Kupon":32184076,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"43 KRAKATAU MEDIKA, PT.","Nomor Kupon":47607785,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"45 SUGIH WARAS,PT.","Nomor Kupon":79577562,"Hadiah":"Voucher Alfamart"},{"Nama Relasi":"42 KEHAMILAN SEHAT PERIUK, KLINIK","Nomor Kupon":3070232,"Hadiah":"Voucher Alfamart"}]
+        title: 'Voucher Indomaret',
+        data: [{"Nama Relasi":"63 GRAHA RESPIRASI SEMESTA, KLINIK","Nomor Kupon":13368146,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"63 PLANET SWALAYAN, MM","Nomor Kupon":15423009,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"63 HERMINA, RS / SMD","Nomor Kupon":37374014,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"40 GAMBIRAN, APT./RBG","Nomor Kupon":55968696,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"40 DOA IBU, APT","Nomor Kupon":27738269,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"40 FARMARIN, APT.","Nomor Kupon":32184076,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"43 KRAKATAU MEDIKA, PT.","Nomor Kupon":47607785,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"45 SUGIH WARAS,PT.","Nomor Kupon":79577562,"Hadiah":"Voucher Indomaret"},{"Nama Relasi":"42 KEHAMILAN SEHAT PERIUK, KLINIK","Nomor Kupon":3070232,"Hadiah":"Voucher Indomaret"}]
       },
     ]
   },
